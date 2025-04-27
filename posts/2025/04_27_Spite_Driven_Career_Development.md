@@ -32,5 +32,5 @@ Are you learning or contributing in the spaces you inhabit at work? If not, what
 
 Are you feeling stuck because the things around you don't change? If so, are you the one who can change? 
 
-![](/images/posts/2025/seagull.jpg Photo by <a href="https://unsplash.com/@philbotha?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Phil Botha</a> on <a href="https://unsplash.com/photos/two-seagulls-in-the-beach-bgx3J1UHpTM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
+![](/images/posts/2025/seagull.jpg "Photo by <a href="https://unsplash.com/@philbotha?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Phil Botha</a> on <a href="https://unsplash.com/photos/two-seagulls-in-the-beach-bgx3J1UHpTM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>")
 
