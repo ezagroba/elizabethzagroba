@@ -17,7 +17,9 @@
 
 ### Upcoming events
 
-For 2025, I have a couple of peer conferences I hope to participate in, but no specific speaking engagements just yet! 
+- [TestBash (October 2025)](https://www.ministryoftesting.com/events/testbash-brighton-2025)
+- [Agile Testing Days (November 2025)](https://agiletestingdays.com/)
+- one more yet-to-be-announced speaking engagement
 
 ### Recent presentations
 #### Topics: exploratory testing, code review, ensemble testing, and facilitating architecture decisions
@@ -118,6 +120,8 @@ For 2025, I have a couple of peer conferences I hope to participate in, but no s
 ### Past peer conferences
 
 - [Friends of Good Software [FroGS Conf]](http://frogsconf.nl/) *organizer*
+	- February 2025
+	- December 2024
 	- September 2024
 	- June 2024
 	- March 2024
@@ -133,10 +137,13 @@ For 2025, I have a couple of peer conferences I hope to participate in, but no s
 	 - March 2021
 	 - September 2020
 	 - September 2019
-- Llandegfan Exploratory Workshop on Testing [LLEWT]
+- [Llandegfan Exploratory Workshop on Testing [LLEWT]](https://github.com/ezagroba/llewt/)
 	- June 2024
 	- June 2023
 	- June 2022
+- [SoCraTes France](https://socrates-fr.github.io/)
+	- October 2023
+	- March 2025
 - [Dutch Exploratory Workshop on Testing [DEWT]](https://dewt.wordpress.com/)
 	- February 2023
 	- January/February 2020
