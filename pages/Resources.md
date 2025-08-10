@@ -99,8 +99,11 @@ I've learned things from these places, and I'd recommend them.
 
 <h3><i class="fa fa-bug"></i> Software to test</h3>
 <ul id="software">
+	<li><a href="https://github.com/BMayhew/awesome-sites-to-test-on" target="_blank">Butch Mayhew's list of Awesome Sites to Test on</a></li>
 	<li><a href="https://eviltester.github.io/TestingApp/apps/index.html" target="_blank">Evil Tester Applications</a></li>
+	<li><a href="https://github.com/emilybache/StrangeCharacters-TestDesign-Kata" target="_blank">Emily Bache's Strange Characters Test Design Kata</a></li>
 	<li><a href="https://httpbin.org/" target="_blank">httpbin</a></li>
+	<li><a href="https://integer.exposed/" target="_blank">Integer Exposed</a></li>
 	<li><a href="http://blackboxpuzzles.workroomprds.com/" target="_blank">James Lyndsay's Black Box Puzzles</a></li>
 	<li><a href="https://jsonplaceholder.typicode.com/" target="_blank">JSON Placeholder</a></li>
 	<li><a href="https://randomuser.me/" target="_blank">Random User Generator</a></li>

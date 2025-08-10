@@ -18,8 +18,8 @@
 ### Upcoming events
 
 - [TestBash (October 2025)](https://www.ministryoftesting.com/events/testbash-brighton-2025)
+- [Øredev (November 2025)](https://oredev.org/)
 - [Agile Testing Days (November 2025)](https://agiletestingdays.com/)
-- one more yet-to-be-announced speaking engagement
 
 ### Recent presentations
 #### Topics: exploratory testing, code review, ensemble testing, and facilitating architecture decisions
@@ -41,8 +41,8 @@
 	- [BoosterConf (March 2023)](https://2023.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesal_2_3/11-my-crafting-project-became-critical-infrastructure/)
 	- [Agile Testing Days (November 2022)](https://agiletestingdays.com/2022/session/my-crafting-project-became-critical-infrastructure/)
 - Strengthen Your Code Review Skills (lightning talk)
-	- [Joy of Coding (June 2022)](https://joyofcoding.org/2022/speakers/lightning-talks.html) [Slides](../../assets/slides/code-review.pdf)
-	- [BoosterConf (March 2022)](https://2022.boosterconf.no/talk/70-strengthen-your-code-review-skills/) [Video](https://vimeo.com/691777585)
+	- [Joy of Coding (June 2022)](https://joyofcoding.org/2022/speakers/lightning-talks.html) [[Slides]](../../assets/slides/code-review.pdf)
+	- [BoosterConf (March 2022)](https://2022.boosterconf.no/talk/70-strengthen-your-code-review-skills/) [[Video]](https://vimeo.com/691777585)
 
 
 ### Archived presentations, panels, and interviews
@@ -120,6 +120,7 @@
 ### Past peer conferences
 
 - [Friends of Good Software [FroGS Conf]](http://frogsconf.nl/) *organizer*
+	- May 2025
 	- February 2025
 	- December 2024
 	- September 2024
