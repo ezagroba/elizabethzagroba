@@ -4,7 +4,7 @@
 
 - I co-organize Friends of Good Software conference ([FroGSConf](https://frogsconf.nl/)).
 - I've spoken at and served on the program committee for [Agile Testing Days](https://agiletestingdays.com/), the [Hungarian Software Testing Forum (HUSTEF)](https://hustef.hu/), and the Agile Alliance.
-- I've done a bunch of stuff for the [Ministry of Testing](https://www.ministryoftesting.com/): spoken at TestBashes, written articles, reviewed abstracts, had people Ask Me Anything live and on the club, facilitated a 99-minute workshop, joined a fireside chat, and volunteered at a TestBash. 
+- I did a bunch of stuff for the [Ministry of Testing](https://www.ministryoftesting.com/): spoke at TestBashes, wrote articles, reviewed abstracts, had people Ask Me Anything, facilitated a 99-minute workshop, and joined a fireside chat. 
 
 ## Presentations
 
@@ -17,13 +17,13 @@
 
 ### Upcoming events
 
-- Continuous Testing Meetup (January 2026)
-
+I don't have any speaking gigs lined up for 2026 so far, I'll be at a couple open spaces and meetups.
 
 ### Recent presentations
 #### Topics: exploratory testing and experience reporting
 
 - Live Exploratory Testing (talk)
+	- [Continuous Testing Meetup (January 2026)](https://www.meetup.com/continuous-testing-meetup-berlin/events/312786623/) [[Slides]](https://workflowy.com/s/continuous-testing-m/p0acAS6CpANEhInl) [[Recording]](https://www.youtube.com/watch?v=hsEIppZq5rU)
 	- [Øredev (November 2025)](https://oredev.org/line-up/b9da444a-e51f-4491-a6ad-b27e077952fd?tags=Quality-Test) [[Slides]](https://workflowy.com/s/redev-2025/oYqT7hmAiGqDlhHK) [[Recording]](https://www.youtube.com/watch?v=ADQq23LxW_s)
 	- [Agile Testing Days (November 2024)](https://agiletestingdays.com/2024/session/live-exploratory-testing/) [[Slides]](https://workflowy.com/s/agile-testing-days-2/YFFNNxl443k4ysh9)
 	- [Hungarian Software Testing Forum (October 2024)](https://hustef.hu/elizabeth_zagroba_2024/) [[Slides]](https://workflowy.com/s/hustef-2024/WQuzSkc2OPwEA6sA)
@@ -123,9 +123,12 @@
 	- [NYC Testers Meetup (August 2015)](http://www.meetup.com/NYC-Testers/events/224194458/) [[Slides]](../../assets/slides/audio-mobile-testing.pdf)
 
 
-### Past peer conferences
+### Peer conferences
 
 - [Friends of Good Software [FroGS Conf]](http://frogsconf.nl/) *organizer*
+	- February 2026
+	- December 2025
+	- September 2025
 	- May 2025
 	- February 2025
 	- December 2024
@@ -145,18 +148,22 @@
 	 - September 2020
 	 - September 2019
 - [Llandegfan Exploratory Workshop on Testing [LLEWT]](https://github.com/ezagroba/llewt/)
+	- July 2025
 	- June 2024
 	- June 2023
 	- June 2022
 - [SoCraTes France](https://socrates-fr.github.io/)
-	- October 2023
+	- March 2026
 	- March 2025
+	- October 2023
+- [Belgian Research & Exploratory Workshop on Testing [BREWT]](https://brewtconf.wordpress.com/)
+	- June 2026
+	- October 2019
+	- December 2018
 - [Dutch Exploratory Workshop on Testing [DEWT]](https://dewt.wordpress.com/)
 	- February 2023
 	- January/February 2020
 	- October 2018
 - [Exploratory Testing Peer Conference](https://exploratorytesting.org/)
 	- February 2019
-- [Belgian Research & Exploratory Workshop on Testing [BREWT]](https://brewtconf.wordpress.com/)
-	- October 2019
-	- December 2018
+
