@@ -17,7 +17,7 @@
 
 ### Upcoming events
 
-I don't have any speaking gigs lined up for 2026 so far, I'll be at a couple open spaces and meetups.
+I don't have any speaking gigs lined up for 2026. I'll be at a couple open spaces and meetups.
 
 ### Recent presentations
 #### Topics: exploratory testing and experience reporting
@@ -28,8 +28,6 @@ I don't have any speaking gigs lined up for 2026 so far, I'll be at a couple ope
 	- [Agile Testing Days (November 2024)](https://agiletestingdays.com/2024/session/live-exploratory-testing/) [[Slides]](https://workflowy.com/s/agile-testing-days-2/YFFNNxl443k4ysh9)
 	- [Hungarian Software Testing Forum (October 2024)](https://hustef.hu/elizabeth_zagroba_2024/) [[Slides]](https://workflowy.com/s/hustef-2024/WQuzSkc2OPwEA6sA)
 	- [NewCrafts (May 2024)](https://ncrafts.io/speaker/elizabethzagroba) [[Slides]](https://workflowy.com/s/new-crafts-2024-prem/QDLSCFLW92Q01tBH)
-- Testing Transparently (talk with James Lyndsay)
-	- [Agile Testing Days (November 2025)](https://agiletestingdays.com/2025/session/testing-transparently/)
 - A Day in the Life of a Quality Lead (talk)
 	- TestBash (October 2025) [[Slides]](../../assets/slides/day-life.pdf)
 	- Ministry of Testing Netherlands meetup (September 2025)
@@ -39,6 +37,8 @@ I don't have any speaking gigs lined up for 2026 so far, I'll be at a couple ope
 ### Archived presentations, panels, and interviews
 #### Topics: ensemble testing, pairing, facilitating architecture decisions, reviewing code, interviewing, and communicating
 
+- Testing Transparently (talk with James Lyndsay)
+	- [Agile Testing Days (November 2025)](https://agiletestingdays.com/2025/session/testing-transparently/)
 - The Testing Planet News (panel with Simon Tomes, Alessandra Moreira, Jesse Buckley, and Simon Tomes)
 	- [Ministry of Testing (October 2024)](https://www.ministryoftesting.com/the-testing-planet-sessions/essentials-the-testing-planet-news-episode-06)
 - Experience ensemble (mob) ways of working (workshop with Joep Schuurkes)
