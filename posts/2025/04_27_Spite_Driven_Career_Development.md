@@ -4,7 +4,7 @@
 .. tags: career, communication, complaints, escape, leadership, life-hacks, mindset
 .. previewimage: /images/posts/2025/seagull.jpg
 
-Occasionally I get asked "What drove you to start speaking at conferences?" There are the regular explanations: I was interested in learning from the best in the field.  couldn't afford the ticket price or the travel. I was looking for a peer group who know what good testing looks like. 
+Occasionally I get asked "What drove you to start speaking at conferences?" There are the regular explanations: I was interested in learning from the best in the field. I couldn't afford the ticket price or the travel. I was looking for a peer group who know what good testing looks like. 
 
 Those things continue to be true. But what pushed this introvert who'd rather be reading a book sipping tea off the couch and onto the stage in front of a crowd? 
 
